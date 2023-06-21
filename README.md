@@ -3,7 +3,7 @@
 
 ** Single-page bank card that is displayed in hover mode  back of the card **
 
-- [Demo Project]()
+- [Demo Project](https://niloofar-anisi.github.io/blu-card/)
 
 - Developed by niloofar anisi 
 
