@@ -11,4 +11,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my  [linkedin]([https://www.linkedin.com/in/niloofar anisi](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/)
+- How to reach me : with my  [linkedin]([[https://www.linkedin.com/in/niloofar anisi](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/](https://www.linkedin.com/in/niloofar-anisi-9879a624a/)https://www.linkedin.com/in/niloofar-anisi-9879a624a/)
